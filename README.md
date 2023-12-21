@@ -18,5 +18,9 @@ echo "This is a shell script."
 
 # 显示当前目录下的文件列表
 ls -l
+``` ```shell
+
+```shell
+```
 ```
 
